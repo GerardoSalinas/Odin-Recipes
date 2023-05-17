@@ -1,2 +1,3 @@
 # Odin-Recipes
-A recipe website focusing mainly on html basics
+A recipe website focusing mainly on html basics.
+
