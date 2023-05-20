@@ -1,0 +1,14 @@
+.teriyaki-title,
+.image-div {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 2%;
+}
+
+.teriyaki-image {
+    border: 2px solid red;
+    border-radius: 15px;
+    width: auto;
+    height: 320px;
+}
