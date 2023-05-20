@@ -1,0 +1,27 @@
+body {
+    font-family: "Georgia",sans-serif;
+}
+
+.centered-header,
+.main-image-div {
+    margin: auto;
+    width: 50%;
+    padding: 2%;
+    text-align: center;
+}
+
+.ingredients-list {
+    list-style-type:square;
+}
+
+.steps-list {
+    list-style-type:lower-roman;
+}
+
+
+.masala-image {
+    height: auto;
+    width: 270px;
+    border: 2px solid #FF9742;
+    border-radius: 15px;
+}
