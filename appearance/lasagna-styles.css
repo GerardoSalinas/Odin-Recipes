@@ -1,3 +1,7 @@
+body {
+    font-family: "Georgia",sans-serif;
+}
+
 .lasagna-title,
 .lasagna-image-div{
     margin: auto;
@@ -11,4 +15,30 @@
     width: 300px;
     border: 2px solid #f6ad2d;
     border-radius: 15px;
+}
+
+.steps-list {
+    display: inline-block;
+    margin-left: 25px;
+    padding: 5px;
+    width: 50%;
+}
+
+.ingredients-list {
+    display: inline-block;
+    margin: -1rem;
+    width: 45%;
+}
+
+.container {
+    padding: 10px 10px;
+    margin: auto;
+}
+
+.ingsubt {
+    margin-left: 25px;
+}
+
+.stsubt {
+    margin-left: 25px;
 }
